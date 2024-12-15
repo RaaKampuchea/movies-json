@@ -1,0 +1,51 @@
+Microsoft Windows [Version 10.0.26100.2033]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\JSON_Sever>npm init -y
+Wrote to D:\JSON_Sever\package.json:
+
+{
+  "name": "json_sever",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+
+
+
+D:\JSON_Sever>npm install json-server@latest
+
+added 45 packages, and audited 46 packages in 14s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+D:\JSON_Sever>
+D:\JSON_Sever>npm i cors
+
+added 3 packages, and audited 49 packages in 2s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+D:\JSON_Sever>npm i nodemon
+
+added 29 packages, and audited 78 packages in 7s
+
+18 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+D:\JSON_Sever>
